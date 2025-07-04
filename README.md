@@ -5,10 +5,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📸 Screenshot
-![Screenshot](tic tac toe.jpeg)
+![Screenshot](tic.jpeg)
 
 ## 🎞️ Demo
-![Demo](tic tac toe.gif)
+![Demo](tic-tac-toe.gif)
 
 ---
 
